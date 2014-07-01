@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"> 
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="bxslider/jquery.bxslider.js"></script>
+	<script type="text/javascript" src="js/bootstrap-select.js"></script>
+   
+    <title>Carousel Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-select.css">
+   
+    <link rel="stylesheet" href="bxslider/jquery.bxslider.css">
+  	
+    
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/responsive-gs-12col.css" rel="stylesheet">
+    
+    <script type="text/javascript">
+        
+    </script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link id="cssCarousel" href="css/carousel.css" rel="stylesheet">
+    <style>
+
+
+    </style>
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+ 
+  	<div id="containerWrapper">
+    	<div id="orientation"></div>
+		   <div id="logo" class="rowg">
+          	<div id="logoWrap" class="span_3_pic">
+            	<a href="index2.html"><img class="span_10_pic" src="img/RGB_logo-h60.png"></a>
+            </div>
+            <div id="langselector">
+				<form action="/" method="post">		        
+				
+                    <select id="Lang" id="bs3Select" class="selectpicker show-tick form-control">
+                        <option  selected="selected">Language</option>
+                        <option class="opcion" value="pt_BR">Brazilian Portuguese</option>
+    
+                        <option class="opcion" value="bg_BG">Bulgarian</option>
+                        
+                        <option value="ca_ES">Catalan</option>
+                        
+                        <option value="hr_HR">Croatian</option>
+                        
+                        <option value="cs_CZ">Czech</option>
+                        
+                        <option value="da_DK">Danish</option>
+                        
+                        <option value="nl_NL">Dutch</option>
+                        
+                        <option value="en_GB">English</option>
+                        
+                        <option value="et_EE">Estonian</option>
+                        
+                        <option value="fi_FI">Finnish</option>
+                        
+                        <option value="fr_FR">French</option>
+                        
+                        <option value="de_DE">German</option>
+                        
+                        <option value="el_GR">Greek</option>
+                        
+                        <option value="hu_HU">Hungarian</option>
+                        
+                        <option value="it_IT">Italian</option>
+                        
+                        <option value="ja_JP">Japanese</option>
+                        
+                        <option value="lv_LV">Latvian</option>
+                        
+                        <option value="lt_LT">Lithuanian</option>
+                        
+                        <option value="no_NO">Norwegian</option>
+                        
+                        <option value="pl_PL">Polish</option>
+                        
+                        <option value="pt_PT">Portugese</option>
+                        
+                        <option value="ro_RO">Romanian</option>
+                        
+                        <option value="ru_RU">Russian</option>
+                        
+                        <option value="zh_CN">Simplified Chinese</option>
+                        
+                        <option value="sk_SK">Slovak</option>
+                        
+                        <option value="sl_SI">Slovenian</option>
+                        
+                        <option value="es_ES">Spanish</option>
+                        
+                        <option value="es_PE">Spanish Peru</option>
+                        
+                        <option value="sv_SE">Swedish</option>
+                        
+                        <option value="zh_TW">Traditional Chinese</option>
+                        
+                        <option value="tr_TR">Turkish</option>
+                        
+                        </select>
+                    
+                    </form>	    
+                
+              </div>
+          </div>        
+          
+          <div id="coverflowWrapper">
+              <!--<div>-->
+                  <div class="slider">
+                  <ul class="bxslider">
+                      <li><img src="/portfolio_file/carouselB/img/mockup_coverflow.png" /></li>
+                      <li><img src="/portfolio_file/carouselB/img/mockup_coverflow.png" /></li>
+                      <li><img src="/portfolio_file/carouselB/img/mockup_coverflow.png" /></li>
+                      <!--<li><img src="/img/mockup_coverflow.png" /></li>
+                      <li><img src="/img/mockup_coverflow.png" /></li>
+                      <li><img src="/img/mockup_coverflow.png" /></li>-->
+                    </ul>
+                  <div id="arrowLeft"></div>
+                  <div id="arrowRight"></div>
+                    
+                </div>
+           </div>
+          	
+          </script>
+          
+          <!-- start menu -->
+          <div class="wrap " >
+	
+            <nav>
+                <ul class="menu " id="menu1">
+                	<li class="active2"><a href="#">All</a></li>
+                    <li><a href="#">Slot</a></li>
+                    <li><a href="#">Table</a></li>
+                    <li><a href="#">Arcade</a></li>
+                    <li><a href="#">Other1</a></li>
+                    <li><a href="#">Others</a></li>
+                </ul>
+                <div class="clearfix">
+                </div>
+            </nav>
+          </div>
+          
+        <!-- Marketing messaging and featurettes
+        ================================================== -->
+        <!-- Wrap the rest of the page in another container to center all the content. -->
+          <div class="container games" >
+        
+             <div  id="loading">
+             	<div id="loadingImgWrap">
+             
+             		<img src="img/preloader.gif">
+                    
+             	</div>
+             </div>
+             <div id="carousel" class="rowg">
+              
+                  
+             </div>
+         
+
+            
+          </div>
+          <div id="showGame">
+          </div>
+          <div id="wrapperPageCounters" >
+          
+              <div id="pageCounters" >
+              
+              </div>
+          </div>
+          <div id="gamesSelectWrapper">
+				<form action="/" method="post">		        
+				
+                    <select id="gamesInSelect" class="selectpicker show-tick form-control">
+                        <option>5xmagicmobile</option>
+                        <option>aceofspadesmobile</option>
+                        <option>aztecidolsmobile</option>
+                        <option>belloffortunemobile</option>
+                        <option>blackjackmhmobile</option>
+                        <option>casinoholdemmobile</option>
+                        <option>casinostudpokermobile</option>
+                        <option>deuceswildprbmobile</option>
+                        <option>dragonshipmobile</option>
+                        <option>enchantedmeadowmobile</option>
+                        <option>europeanroulettemobile</option>
+                        <option>fortunetellermobile</option>
+                        <option>giftshopmobile</option>
+                        <option>goldengoalmobile</option>
+                        <option>goldtrophy2mobile</option>
+                        <option>gumballmobile</option>
+                        <option>holeinonemobile</option>
+                        <option>irishgoldmobile</option>
+                        <option>jackpotpokerprbmobile</option>
+                        <option>jacksorbetterprbmobile</option>
+                        <option>jewelboxmobile</option>
+                        <option>jokerpokerprbmobile</option>
+                        <option>jollyrogermobile</option>
+                        <option>kenomobile</option>
+                        <option>leprechaungoesegyptmobile</option>
+                        <option>luckydiamondsmobile</option>
+                        <option>minibaccaratmobile</option>
+                        <option>mythmobile</option>
+                        <option>ninjafruitsmobile</option>
+                        <option>pearllagoonmobile</option>
+                        <option>richesoframobile</option>
+                        <option>scratchahoymobile</option>
+                        <option>speedcashmobile</option>
+                        <option>treycardpokermobile</option>
+                        <option>triplechancehilomobile</option>
+                        <option>trollhuntersmobile</option>
+                        <option>wildbloodmobile</option>
+                        <option>wildmelonmobile</option>
+                        
+                        </select>
+                    
+                    </form>	    
+                
+              </div>
+          <!-- FOOTER -->
+          <footer>
+            <p>&copy; 2013 Company</p>
+          </footer>
+      
+        </div><!-- /containerWrapper -->
+    
+    
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+    
+      	
+        <script src="js/head.min.js"></script>
+         
+        <!--<script src="js/bootstrap.min.js"></script>
+        <script src="js/holder.js"></script>-->
+        <script src="js/helperFunction.js"></script>
+        <!--<script src="https://raw.github.com/gorbiz/mobile-console.log/master/console.js"></script>-->
+      
+		
+        
+        
+        <script type="text/javascript">
+		
+		</script>
+       <!-- jQuery is just for the demo! Hammer.js works without jQuery :-) -->
+		
+        
+        
+  </body>
+</html>

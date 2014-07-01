@@ -1,0 +1,334 @@
+{
+
+	"json_items":[
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"1"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"2"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"3"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"4"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"5"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"6"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"7"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"8"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"9"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"10"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"11"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"12"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"13"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"2"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"15"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"16"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"17"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"18"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"19"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"20"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"21"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"22"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"23"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"24"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"25"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"26"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"27"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"28"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"29"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"150"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"5",
+	  "name": "n4",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"28"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"5",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"29"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"5",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"30"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"31"
+	  },
+	  {
+	  "category": "Arcade",
+	  "category_id":"3",
+	  "name": "n3",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"32"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"4",
+	  "name": "n4",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"33"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"1",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"34"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"2",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"35"
+	  },
+	  {
+	  "category": "Övrigt",
+	  "category_id":"5",
+	  "name": "n4",
+	  "pictureUrl": "thumb3",
+	  "description":"Here is the description",
+	  "id":"36"
+	  },
+	  {
+	  "category": "Slots",
+	  "category_id":"5",
+	  "name": "n1",
+	  "pictureUrl": "thumb1",
+	  "description":"Here is the description",
+	  "id":"37"
+	  },
+	  {
+	  "category": "Table",
+	  "category_id":"5",
+	  "name": "n2",
+	  "pictureUrl": "thumb2",
+	  "description":"Here is the description",
+	  "id":"38"
+	  }
+	
+  ]
+}
